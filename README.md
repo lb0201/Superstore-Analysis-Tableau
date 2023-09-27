@@ -18,6 +18,8 @@ I've focused on answering the following business related questions:
 * Sales percentage per region
 * Sales per category
 * Quantity - Discount correlation
+  
+![Superstore Sales Dashboard](https://github.com/lb0201/Superstore-Analysis-Tableau/blob/main/Superstore%20Sales%20Dashboard.jpeg)
 
 
 Key data analytic skills highlighted in the Tableau dashboard project include data transformation and processing, integration, visualization, and customization.
