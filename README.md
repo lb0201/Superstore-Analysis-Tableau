@@ -26,7 +26,7 @@ Key data analytic skills highlighted in the Tableau dashboard project include da
 
 ### Files Used
 
-- superstore.csv
+superstore.csv
 
 
 ### Copyright, Authors, Acknowledgements
