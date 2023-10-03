@@ -1,12 +1,12 @@
-### Date created
+## Date created
 
 April 2023
 
-### Project Title
+## Project Title
 
 Tableau Superstore Sales Analysis Dashboard
 
-### Description
+## Description
 
 In this project, I've implemented data visualizations utilizing a variety of charts and graphs in Tableau from a superstore dataset (superstore.csv). 
 
@@ -24,11 +24,11 @@ I've focused on answering the following business related questions:
 
 Key data analytic skills highlighted in the Tableau dashboard project include data transformation and processing, integration, visualization, and customization.
 
-### Files Used
+## Files Used
 
 superstore.csv
 
 
-### Copyright, Authors, Acknowledgements
+## Copyright, Authors, Acknowledgements
 
 I would like to thank GMU's data visualization course for giving me the opportunity to learn and develop my tableau skills.
