@@ -10,7 +10,7 @@ Tableau Superstore Sales Analysis Dashboard
 
 In this project, I've implemented data visualizations utilizing a variety of charts and graphs in Tableau from a superstore dataset (superstore.csv). 
 
-I've focused on answering the following business-related questions: 
+### Questions:
 
 * Sales per month
 * Sales per state
@@ -26,9 +26,10 @@ Key data analytic skills highlighted in the Tableau dashboard project include da
 
 ## Files 
 
-superstore.csv
+* superstore.csv
+* Tableau Dashboard: [Click me](https://public.tableau.com/app/profile/brian.lim2432/viz/Homework11_16816992178970/Dashboard1)
 
 
 ## Copyright, Authors, Acknowledgements
 
-I would like to thank GMU's data visualization course for giving me the opportunity to learn and develop my tableau skills.
+I would like to thank GMU's data visualization course for giving me the opportunity to learn and develop my Tableau skills.
